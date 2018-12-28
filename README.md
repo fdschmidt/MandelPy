@@ -3,9 +3,9 @@
 MandelPy is a Mandelbrot visualization tool for Linux, Windows, and Macs based on Python3. It can be executed as a Jupyter Notebook or inside a Widget with the option to change the computational grid, the resolution, the number of iterations, the threshold, and the colour map. Generated Mandelbrot plots can be saved as png files if the corresponding option is selected.
 
 ## Requirements
-MandelPy was initially written using Python3.6.2 but should work with older Python3 installations
-as well. In addition, the following Python libraries are required: numpy, matplotlib,
-and datetime for both the Jupyter Notebook and the Widget and tkinter for the Widget
+MandelPy was initially written using *Python3.6.2* but should work with older Python3 installations
+as well. In addition, the following Python libraries are required: *numpy*, *matplotlib*,
+and *datetime* for both the Jupyter Notebook and the Widget and *tkinter* for the Widget
 only.
 
 ## Instructions
