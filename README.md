@@ -1,4 +1,5 @@
 # MandelPy
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fdschmidt/MandelPy/master)
 
 MandelPy is a Mandelbrot visualization tool for Linux, Windows, and Mac based on Python3. It can be executed as a Jupyter Notebook or inside a Widget with the option to change the computational grid, the resolution, the number of iterations, the threshold, and the colour map. Generated Mandelbrot plots can be saved as png files if the corresponding option is selected.
 
